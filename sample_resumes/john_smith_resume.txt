@@ -1,0 +1,31 @@
+John Smith
+Software Engineer
+john.smith@email.com | +1-555-123-4567
+
+SUMMARY
+Experienced Full-Stack Developer with 5 years of experience building scalable web applications and data pipelines. Strong background in Python, React, and cloud infrastructure.
+
+EXPERIENCE
+Senior Software Engineer — TechCorp Inc. (2020–Present)
+- Developed RESTful APIs using Python FastAPI and Django serving 500K+ requests/day
+- Built React.js dashboards with TailwindCSS and Framer Motion animations
+- Deployed microservices on AWS using Docker and Kubernetes
+- Optimized PostgreSQL and MongoDB queries reducing response time by 40%
+- Implemented CI/CD pipelines using GitHub Actions and Jenkins
+
+Software Developer — Startup XYZ (2019–2020)
+- Built machine learning models using scikit-learn and TensorFlow for fraud detection
+- Used pandas and numpy for data analysis and feature engineering
+- Worked with Redis for caching and Elasticsearch for full-text search
+
+EDUCATION
+Bachelor of Science in Computer Science — State University (2019)
+
+SKILLS
+Languages: Python, JavaScript, TypeScript, Java, SQL
+Frontend: React, Next.js, TailwindCSS, HTML, CSS
+Backend: FastAPI, Django, Node.js, Express
+Databases: PostgreSQL, MongoDB, Redis, SQLite, MySQL
+Cloud: AWS (EC2, S3, Lambda), Docker, Kubernetes
+ML/AI: scikit-learn, TensorFlow, pandas, numpy, NLP
+Tools: Git, GitHub, Jira, Agile, Linux, Bash

@@ -1,0 +1,35 @@
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+python-multipart==0.0.9
+pydantic==2.7.1
+pydantic-settings==2.2.1
+
+# File parsing
+PyPDF2==3.0.1
+pdfplumber==0.11.0
+python-docx==1.1.2
+
+# NLP — spaCy with English model
+spacy==3.7.4
+# After pip install, run: python -m spacy download en_core_web_sm
+
+# ML — sklearn TF-IDF (real vectorizer)
+scikit-learn==1.4.2
+pandas==2.2.2
+numpy==1.26.4
+
+# Semantic BERT embeddings
+sentence-transformers==3.0.1
+
+# Database
+sqlalchemy==2.0.30
+aiosqlite==0.20.0
+
+# MongoDB (optional)
+motor==3.4.0
+pymongo==4.7.2
+
+# Utilities
+python-dotenv==1.0.1
+aiofiles==23.2.1
+reportlab==4.1.0

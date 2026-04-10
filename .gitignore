@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# Uploads (important)
+backend/uploads/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node modules
+frontend/node_modules/
+
+# Build files
+frontend/dist/
+
+# VS Code
+.vscode/
+
+# SQLite DB (optional)
+*.sqlite3
+*.db
+
+# spaCy cache / models (optional)
+*.tar.gz
+
+# Torch / transformers cache
+.cache/
